@@ -1,5 +1,7 @@
-## Welcome to GitHub Pages
-
+I am a post doctoral researcher in the <a href="https://www.cs.dartmouth.edu">Department of Computer Science</a> at <a href="https://www.dartmouth.edu">Dartmouth College</a> under the supervision of <a href="https://web.cs.dartmouth.edu/people/soroush-vosoughi">Prof. Soroush Vosoughi</a>. Broadly my research interests lie in applied machine learning, with emphasis on building interpretable models from uncertain multimodal/multisource data. I am motivated by challenging problems impacting human development. 
+      <p>One of the  mapping poverty using multiple disparate data sources, involving satellite imagery and mobile phone data. A  Inter-American Development Bank on poverty mapping for Haiti</p>
+      
+      
 You can use the [editor on GitHub](https://github.com/neetip/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
