@@ -1,6 +1,6 @@
 I am a post doctoral researcher in the <a href="https://www.cs.dartmouth.edu">Department of Computer Science</a> at Dartmouth College under the supervision of <a href="https://web.cs.dartmouth.edu/people/soroush-vosoughi">Prof. Soroush Vosoughi</a>, Department of Computer Science and <a href="https://sites.dartmouth.edu/valentino">Prof. Benjamin Valentino</a>, Department of Government. Broadly my research interests lie in applied machine learning, with emphasis on building interpretable models from uncertain multimodal/multisource data. I am motivated by challenging problems impacting human development. 
 
-I was recently awarded a <a href="https://irving.dartmouth.edu/research/funding-faculty/funded-projects/mapping-country-wide-energy-access-majority-worldgrant">grant</a> from the Arthur L. Irving Institute for Energy and Society, Dartmouth College to predicting country-wide energy access using novel data sources. 
+I was recently awarded a <a href="https://irving.dartmouth.edu/research/funding-faculty/funded-projects/mapping-country-wide-energy-access-majority-worldgrant">grant</a> from the Arthur L. Irving Institute for Energy and Society, Dartmouth College for predicting country-wide energy access using novel data sources. 
 
 I completed a <a href="https://publications.iadb.org/en/estimating-and-forecasting-income-poverty-and-inequality-in-haiti-using-satellite-imagery-and-mobile-phone-data">consultancy</a> with the Inter-American Development Bank, DC on studying poverty and inequality for Haiti from satellite imagery and mobile phone data. I have also been involved in the <a href="https://datapopalliance.org/transform/opal/">OPAL</a> project with DataPop Alliance and National Statistics Office in Senegal for poverty mapping.
 
@@ -10,7 +10,7 @@ I completed my Ph.D. in Computer Science from the University at Buffalo, State U
 Publications
 ============
 <ul>
-<li><b>Social media data reveals signal for public consumer perceptions, N. Pokhriyal, Abenezer Dara, Benjamin Valentino, and Soroush Vosoughi</b>, ACM International Conference on AI in Finance (ICAIF ’20), 2020</li>      
+      <li><b>Social media data reveals signal for public consumer perceptions</b>, N. Pokhriyal, Abenezer Dara, Benjamin Valentino, and Soroush Vosoughi</b>, ACM International Conference on AI in Finance (ICAIF ’20), 2020</li>      
 <li><b>Estimating poverty, inequality and social deprivations in Haiti via machine learning techniques</b>, N. Pokhriyal, Omar Zambrano, Jennifer Linares, Working Paper, Inter-American Development Bank, 2020</li>
 <li><b>Learning Discriminative Factorized Subspaces With Application to Touchscreen Biometrics</b>, N. Pokhriyal and V. Govindaraju, IEEE Access, 2020</li>
 <li><b>Learning from disparate data: Applications in Biometrics and Sustainability</b>, N. Pokhriyal, PhD thesis, University at Buffalo, State University of New York, 2019</li> 
