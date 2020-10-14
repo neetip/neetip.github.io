@@ -1,12 +1,12 @@
 I am a post doctoral researcher in the <a href="https://www.cs.dartmouth.edu">Department of Computer Science</a> at <a href="https://www.dartmouth.edu">Dartmouth College</a> under the supervision of <a href="https://web.cs.dartmouth.edu/people/soroush-vosoughi">Prof. Soroush Vosoughi</a>, Department of Computer Science and <a href="https://sites.dartmouth.edu/valentino">Prof. Benjamin Valentino</a>, Department of Government. Broadly my research interests lie in applied machine learning, with emphasis on building interpretable models from uncertain multimodal/multisource data. I am motivated by challenging problems impacting human development. 
 
-
-I completed my Ph.D. in Computer Science from the University at Buffalo, State University of New York in 2019, where I received the Chih Foundation Research and Publication Award for 2019. During my Ph.D, I received the National Statistics Prize and 2K monetary prize, Data for Development (D4D), Challenge, NetMob Conference, 2015. Prior to joining the Ph.D. program, I was a Researcher in the <a href="http://www.csm.ornl.gov">Computer Science and Mathematics Division</a>, <a href="https://www.ornl.gov">Oak Ridge National Laboratory</a>, Oak Ridge, TN. I have completed my Masters in <a href="http://www.cs.ucr.edu">Computer Science</a> from <a href="https://www.ucr.edu">University of California, Riverside, where I received the Dean's Distinguished Fellowship</a>.
+I completed my Ph.D. in Computer Science from the University at Buffalo, State University of New York in 2019, where I received the Chih Foundation Research and Publication Award for 2019. During my Ph.D, I received the National Statistics Prize and 2K monetary prize, Data for Development (D4D), Challenge, NetMob Conference, 2015. Prior to joining the Ph.D. program, I was a Researcher in the Computer Science and Mathematics Division, <a href="https://www.ornl.gov">Oak Ridge National Laboratory</a>, Oak Ridge, TN. I have completed my Masters in Computer Science from University of California, Riverside, where I received the Dean's Distinguished Fellowship.
 
 
 Publications
 ============
 <ul>
+<li><b>Social media data reveals signal for public consumer perceptions, N. Pokhriyal, Abenezer Dara, Benjamin Valentino, and Soroush Vosoughi</b>, ACM International Conference on AI in Finance (ICAIF ’20), 2020</li>      
 <li><b>Estimating poverty, inequality and social deprivations in Haiti via machine learning techniques</b>, N. Pokhriyal, Omar Zambrano, Jennifer Linares, Working Paper, Inter-American Development Bank, 2020</li>
 <li><b>Learning Discriminative Factorized Subspaces With Application to Touchscreen Biometrics</b>, N. Pokhriyal and V. Govindaraju, IEEE Access, 2020</li>
 <li><b>Learning from disparate data: Applications in Biometrics and Sustainability</b>, N. Pokhriyal, PhD thesis, University at Buffalo, State University of New York, 2019</li> 
