@@ -22,6 +22,4 @@ Publications
       <li><b>A Large-scale Study of Language Usage as a Cognitive Biometric Trait</b>, Neeti Pokhriyal, Ifeoma Nwogu, Venugopal Govindaraju, Elsevier Handbook on Big Data Analytics, 2015 (Invited).</li>
             <li><b>Use of Language as a Cognitive Biometric Trait</b>, Neeti Pokhriyal, Ifeoma Nwogu, Venugopal Govindaraju, Proceedings of IEEE International Joint Conference on Biometrics, September, 2014.</li>
       <li><b>Novel Gene Discovery in the Human Malaria Parasite using Nucleosome Positioning Data</b>, Neeti Pokhriyal, Nadia Ponts, Elena Harris, Karine Le Roch and Stefano Lonardi, In Proceedings of Ninth International Conference on Computational Systems Bioinformatics, Stanford, CA, August, 2010.</li>
-      <li><b>Anomaly Detection for High Fidelity Core Simulators</b>, Neeti Pokhriyal, Ugur Mertyurek, Andrew Godfrey, Jay Jay Billings,  In Proc. of the American Nuclear Society Annual Meeting, 2013</li>
-      <li><b>Knowledge Discovery from Nuclear Reactor Simulation Data</b>, Neeti Pokhriyal, Ugur Mertyurek, Andrew Godfrey, Jay Jay Billings, Presented at the 2nd International Workshop on Analytics for Cyber-Physical Systems (ACS-2013) in conjunction with SIAM International Data Mining Conference, 2013</li>
 </ul>
