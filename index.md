@@ -10,7 +10,7 @@ I completed my Ph.D. in Computer Science from the University at Buffalo, State U
 Publications
 ============
 <ul>
-      <li><b>Social media data reveals signal for public consumer perceptions</b>, N. Pokhriyal, Abenezer Dara, Benjamin Valentino, and Soroush Vosoughi</b>, ACM International Conference on AI in Finance (ICAIF ’20), 2020</li>      
+      <li><b>Social media data reveals signal for public consumer perceptions</b>, N. Pokhriyal, Abenezer Dara, Benjamin Valentino, and Soroush Vosoughi, ACM International Conference on AI in Finance (ICAIF ’20), 2020</li>      
 <li><b>Estimating poverty, inequality and social deprivations in Haiti via machine learning techniques</b>, N. Pokhriyal, Omar Zambrano, Jennifer Linares, Working Paper, Inter-American Development Bank, 2020</li>
 <li><b>Learning Discriminative Factorized Subspaces With Application to Touchscreen Biometrics</b>, N. Pokhriyal and V. Govindaraju, IEEE Access, 2020</li>
 <li><b>Learning from disparate data: Applications in Biometrics and Sustainability</b>, N. Pokhriyal, PhD thesis, University at Buffalo, State University of New York, 2019</li> 
