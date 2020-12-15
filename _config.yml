@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Neeti Pokhriyal"
   avatar           : "neeti.png"
-  bio              : "Post Doctoral Research Associate, Computer Science, Dartmouth College"
+  bio              : "Post Doctoral Research Associate, Computer Science, Dartmouth College. <br/><hr/> Research Statement"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Neeti_Pokhriyal"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "neetip"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-9410-7084"
+  orcid            : #"https://orcid.org/0000-0001-9410-7084"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
