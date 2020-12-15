@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Neeti Pokhriyal Website"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Neeti Pokhriyal"
 description              : &description "Personal Website"
