@@ -11,9 +11,9 @@ title                    : "Neeti Pokhriyal Website"
 title_separator          : "-"
 name                     : &name "Neeti Pokhriyal"
 description              : &description "Personal Website"
-url                      : https://neetip2.github.io 
+url                      : https://neetip.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "neetip/neetip2.github.io"
+repository               : "neetip/neetip.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
