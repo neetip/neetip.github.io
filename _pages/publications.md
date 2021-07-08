@@ -19,7 +19,7 @@ For an updated list, please see my <a href="https://neetip.github.io/assets/stat
 <li><b>Multi-view learning from disparate sources for Poverty Mapping</b>, N. Pokhriyal, AAAI Conference on Artificial Intelligence Doctoral Consortium, 2019</li>
 <li><b>Combining disparate data sources for improved poverty prediction and mapping</b>, Neeti Pokhriyal and Damien Jacques, Proceedings of the National Academy of Sciences (PNAS), 2017, doi: 10.1073/pnas.1700319114</li>
       <li><b>Cognitive-Biometric Recognition From Language Usage: A Feasibility Study</b>, Neeti Pokhriyal, Kshitij Tayal,Ifeoma Nwogu, Venu Govindaraju, IEEE Transactions on Information Forensics and Security</li>
-      <li><b>Virtual Networks and Poverty Analysis in Senegal</b>, Neeti Pokhriyal, Wen Dong, Venu Govindaraju, D4D, NetMob, April 2015 <a href="http://arxiv.org/abs/1506.03401">Paper</a></li>
+      <li><b>Virtual Networks and Poverty Analysis in Senegal</b>, Neeti Pokhriyal, Wen Dong, Venu Govindaraju, D4D, NetMob, April 2015 </li>
       <li><b>Analysis of nucleosome positioning landscapes enables gene discovery in the human malaria parasite Plasmodium falciparum</b>, Xueqing M. Lu, Evelien M. Bunnik, Neeti Pokhriyal, Sara Nasseri, Stefano Lonardi and Karine G. Le Roch, BMC Genomics, 2015.</li>
       <li><b>A Large-scale Study of Language Usage as a Cognitive Biometric Trait</b>, Neeti Pokhriyal, Ifeoma Nwogu, Venugopal Govindaraju, Elsevier Handbook on Big Data Analytics, 2015 (Invited).</li>
             <li><b>Use of Language as a Cognitive Biometric Trait</b>, Neeti Pokhriyal, Ifeoma Nwogu, Venugopal Govindaraju, Proceedings of IEEE International Joint Conference on Biometrics, September, 2014.</li>
