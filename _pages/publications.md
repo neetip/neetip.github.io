@@ -10,8 +10,9 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-For an updated list, please see my <a href="https://neetip.github.io/assets/statements/Pokhriyal_CV.pdf">CV</a>.
+For an updated list, please see my <a href="https://neetip.github.io/assets/docs/Pokhriyal_CV.pdf">CV</a>.
 <ul>
+      <li><b>An interpretable model for real-time tracking of economic indicators</b>, N. Pokhriyal, Benjamin Valentino, and Soroush Vosoughi, ACM Transactions on Data Science (TODS), 2021</li>      
       <li><b>Social media data reveals signal for public consumer perceptions</b>, N. Pokhriyal, Abenezer Dara, Benjamin Valentino, and Soroush Vosoughi, ACM International Conference on AI in Finance (ICAIF ’20), 2020</li>      
 <li><b>Estimating poverty, inequality and social deprivations in Haiti via machine learning techniques</b>, N. Pokhriyal, Omar Zambrano, Jennifer Linares, Working Paper, Inter-American Development Bank, 2020</li>
 <li><b>Learning Discriminative Factorized Subspaces With Application to Touchscreen Biometrics</b>, N. Pokhriyal and V. Govindaraju, IEEE Access, 2020</li>
