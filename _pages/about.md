@@ -7,17 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a visiting scholar at the Department of Computer Science at Dartmouth College, where I, just, finished two years as a postdoc under the supervision of Prof. Soroush Vosoughi, Department of Computer Science, and Prof. Benjamin Valentino, Department of Government. I explore critical dualities that lie at the intersection of artificial intelligence (AI) and its societal impacts. Of special interest to me are the potentials of AI for societal development and addressing sustainability issues, while limiting their tendencies to exacerbate biases related to gender, race, ethnicity, etc. to create equitable and inclusive futures.
+I am a visiting scholar at the Department of Computer Science at Dartmouth College. I completed two years as a postdoc under the supervision of Prof. Soroush Vosoughi, Department of Computer Science, and Prof. Benjamin Valentino, Department of Government at Dartmouth College. I explore critical dualities that lie at the intersection of artificial intelligence (AI) and its societal impacts. I am interested in the potential of AI for societal development and addressing sustainability issues while limiting their tendencies to exacerbate biases to create equitable and inclusive futures.
 
-I model scenarios characterized by noisy, uncertain, and high-dimensional data coming from heterogeneous sources, with emphasis on reasoning under uncertainty and quantifying biases. I have developed statistical and computational methods to map poverty and inequality (<a href="https://www.pnas.org/content/114/46/E9783">PNAS'17</a>, <a href="https://publications.iadb.org/en/estimating-and-forecasting-income-poverty-and-inequality-in-haiti-using-satellite-imagery-and-mobile-phone-data">IADB Working Paper'20</a>), to forecast energy deficits given Sustainable Development Goals, to estimate economic well-being in presence of shocks (such as the pandemic) (<a href="assets/docs/acm_tds.pdf">ACM TDS'21)</a>, as well as to build more secure biometric systems (<a href="assets/docs/ieee_tifs.pdf">IEEE TIFS'16</a>, <a href="https://ieeexplore.ieee.org/document/9157880">IEEE Access'20</a>). I also investigate the existence of biases in data-driven systems, in terms of who they represent and who they miss. 
+I model scenarios characterized by noisy, uncertain, and high-dimensional data coming from heterogeneous sources, with emphasis on learning under uncertainty and quantifying biases. I have developed statistical and computational methods to map poverty and inequality (<a href="https://www.pnas.org/content/114/46/E9783">PNAS'17</a>, <a href="https://publications.iadb.org/en/estimating-and-forecasting-income-poverty-and-inequality-in-haiti-using-satellite-imagery-and-mobile-phone-data">IADB Working Paper'20</a>), to forecast energy deficits given Sustainable Development Goals, to estimate economic well-being in presence of shocks (such as the pandemic) (<a href="assets/docs/acm_tds.pdf">ACM TDS'21)</a>, as well as to build more secure biometric systems (<a href="assets/docs/ieee_tifs.pdf">IEEE TIFS'16</a>, <a href="https://ieeexplore.ieee.org/document/9157880">IEEE Access'20</a>). 
 
 <p><b>Recent News:</b></p>
 <ul>
-  <li>Mirzayan</li>
-  <li>TDS Paper</li>
-  <li>OPHI Talk</li>
-  <li>Seed grant</li>
-  <li>ICAIF talk</li>
+  <li>2022 Christine Mirzayan Science and Technology Policy Fellow at the National Academies of Sciences, Engineering, and Medicine, DC (https://www.nationalacademies.org/our-work/the-christine-mirzayan-science--technology-policy-graduate-fellowship-program) (Jan 2022)</li>
+  <li>Journal article in ACM Transactions on Data Science, titled, "An interpretable model for real-time tracking of economic indicators using social media data" (Nov 2021) </li>
+  <li>Invited talk at the Oxford Poverty and Human Development Seminar Series on Multidimensional Poverty Measurement using novel data sources (https://ophi.org.uk/courses-and-events/seminars/) (Nov 2021)</li>
+  <li>Proposal selected as a finalist for Facebook's research award for Statistics for Improving Insights, Models, and Decisions (Aug 2021)</li>
+  <li> </li>
 </ul>
 
 I was awarded a seed grant from the Arthur L. Irving Institute for Energy and Society, Dartmouth College for 2020-21 to propose methods that enable frequent evaluations of energy deficit in poorer economies in absence of any official surveys. I have collaborated with the Inter-American Development Bank, DC on studying poverty and inequality for Haiti from satellite imagery and mobile phone data.
