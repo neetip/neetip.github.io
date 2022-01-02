@@ -1,1 +1,1 @@
-# Neeti Pokhriyal's Website
+# Neeti Pokhriyal's website
