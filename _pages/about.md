@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a visiting scholar at the Department of Computer Science at Dartmouth College and will be starting as a Mrzayan Policy Fellow at the National Academies of Sciences, Engineering, and Medicine, Washington DC from March 2022. 
+I am a visiting scholar at the Department of Computer Science at Dartmouth College and will be starting as a Mirzayan Policy Fellow at the National Academies of Sciences, Engineering, and Medicine, Washington DC from March 2022. 
 
 I completed two years as a postdoc under the supervision of Prof. Soroush Vosoughi, Department of Computer Science, and Prof. Benjamin Valentino, Department of Government at Dartmouth College. I am interested in the potential of AI for societal development and addressing sustainability issues while limiting their tendencies to exacerbate biases to create equitable and inclusive futures.
 
