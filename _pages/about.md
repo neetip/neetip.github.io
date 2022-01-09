@@ -16,7 +16,7 @@ I model scenarios characterized by noisy, uncertain, and high-dimensional data c
 <p><b>Recent News:</b></p>
 <ul>
   <li>Starting as <a href="https://www.nationalacademies.org/our-work/the-christine-mirzayan-science--technology-policy-graduate-fellowship-program">Christine Mirzayan Science and Technology Policy Fellow</a> at the National Academies of Sciences, Engineering, and Medicine, DC from March 2022</li>
-  <li>Journal article published in ACM Transactions on Data Science, titled, "An interpretable model for real-time tracking of economic indicators using social media data" (Nov 2021) </li>
+  <li>Journal article in ACM Transactions on Data Science, titled, "An interpretable model for real-time tracking of economic indicators using social media data" (Nov 2021) </li>
   <li>Invited talk at the <a href="https://ophi.org.uk/courses-and-events/seminars/">Oxford Poverty and Human Development Seminar</a> Series on Multidimensional Poverty Measurement using novel data sources (Nov 2021)</li>
   <li> Awarded <a href="https://irving.dartmouth.edu/research/funding-faculty/funded-projects/mapping-country-wide-energy-access-majority-world">grant</a> as Principal Investigator from the Arthur L. Irving Institute for Energy and Society, Dartmouth College (2020-2021)</li>
 </ul>
