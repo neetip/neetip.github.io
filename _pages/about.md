@@ -7,7 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+---
+**NOTE**
 I am a Mirzayan Science Policy Fellow at the National Academies of Sciences, Engineering, and Medicine, Washington DC and also a visiting scholar at the Department of Computer Science at Dartmouth College. I am interested in policy aspects that lie at the intersection of artificial intelligence and societal well-being.
+---
 
 I completed two years as a postdoc under the supervision of Prof. Soroush Vosoughi, Department of Computer Science, and Prof. Benjamin Valentino, Department of Government at Dartmouth College. During my postdoc, I was awarded a seed <a href="https://irving.dartmouth.edu/research/funding-faculty/funded-projects/mapping-country-wide-energy-access-majority-world">grant</a> on understanding energy poverty as Principal Investigator from the Arthur L. Irving Institute for Energy and Society, Dartmouth College.
 
