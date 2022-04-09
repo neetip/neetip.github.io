@@ -10,7 +10,7 @@ redirect_from:
 
 <p style="padding: 10px; background-color:#E8E8E8 ; border: 0px;">
   I am a Mirzayan Science Policy Fellow at the National Academies of Sciences, Engineering, and Medicine, Washington DC and also a visiting scholar at the Department of Computer Science at Dartmouth College. I am interested in policy aspects that lie at the intersection of artificial intelligence and societal well-being.
-<br/>  
+<br/><br/>
 Please refer to my <a href="/assets/docs/CV_Neeti_Jan22.pdf">CV</a> for more details.
 </p>
 
