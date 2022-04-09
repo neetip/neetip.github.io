@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p style="padding: 10px; border: 0px solid red;">
+<p style="padding: 10px; background-color:gray ; border: 0px solid red;">
 I am a Mirzayan Science Policy Fellow at the National Academies of Sciences, Engineering, and Medicine, Washington DC and also a visiting scholar at the Department of Computer Science at Dartmouth College. I am interested in policy aspects that lie at the intersection of artificial intelligence and societal well-being.
 </p>
 
