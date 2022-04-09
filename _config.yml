@@ -86,7 +86,7 @@ author:
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=_fuWvv0AAAAJ&hl=en"
   email            :
   researchgate     :  
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/neetipokhriyal/"
   orcid            : #"https://orcid.org/0000-0001-9410-7084"
   pinterest        :
   soundcloud       :
