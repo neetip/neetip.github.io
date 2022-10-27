@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer scientist with interest in policy issues related to developing responsible artificial intelligence and data science technologies. I am an AAAS Science and Technology Policy fellow at the National Science Foundation’s National Artificial Intelligence (AI) Research Institutes program, which focuses on long-term fundamental and use-inspired AI research towards issues of national importance. As a fellow, I focus on understanding the AI strategy and policies across the federal space and managing multi-institution and inter-agency efforts in expanding AI infrastructure and access.
+I am a computer scientist with interest in policy issues related to developing responsible artificial intelligence and data science technologies. I am an AAAS Science and Technology Policy fellow at the National Science Foundation’s National Artificial Intelligence (AI) Research Institutes program, which focuses on long-term fundamental and use-inspired AI research towards issues of national importance. As a fellow, I focus on understanding the AI strategies and policies across the federal space and managing multi-institution and inter-agency efforts in expanding AI infrastructure and access.
  
 I was the 2022 Mirzayan Policy Fellow at the National Academies of Sciences, Engineering, and Medicine, where I contributed to the Committee on National Statistics on aspects of data, privacy, and equity. 
   
