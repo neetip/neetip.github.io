@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-For an updated list, please see my <a href="https://neetip.github.io/assets/docs/Rand_CV_Neeti.pdf">CV</a>.
+For an updated list, please see my <a href="https://neetip.github.io/assets/docs/CV_Neeti_Nov22.pdf">CV</a>.
 <ul>
       <li><b>An interpretable model for real-time tracking of economic indicators</b>, N. Pokhriyal, Benjamin Valentino, and Soroush Vosoughi, ACM Transactions on Data Science (TDS), 2021</li>      
       <li><b>Social media data reveals signal for public consumer perceptions</b>, N. Pokhriyal, Abenezer Dara, Benjamin Valentino, and Soroush Vosoughi, ACM International Conference on AI in Finance (ICAIF ’20), 2020</li>      
