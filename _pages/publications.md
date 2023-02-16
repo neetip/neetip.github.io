@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-For an updated list, please see my <a href="https://neetip.github.io/assets/docs/CV_Neeti_Nov22.pdf">CV</a>.
+For an updated list, please see my <a href="https://neetip.github.io/assets/docs/Neeti_CV_Feb23.pdf">CV</a>.
 <ul>  
       <li><b>Accurate Intercensal Estimates of Energy Access to Track Sustainable Development Goal 7</b>, N. Pokhriyal, Emmanuel Letouzé, Soroush Vosoughi, EPJ Data Science, 2022</li> 
       <li><b>An interpretable model for real-time tracking of economic indicators</b>, N. Pokhriyal, Benjamin Valentino, and Soroush Vosoughi, ACM Transactions on Data Science (TDS), 2022</li>      
