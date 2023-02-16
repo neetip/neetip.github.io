@@ -11,13 +11,14 @@ author_profile: true
 
 {% include base_path %}
 For an updated list, please see my <a href="https://neetip.github.io/assets/docs/CV_Neeti_Nov22.pdf">CV</a>.
-<ul>
-      <li><b>An interpretable model for real-time tracking of economic indicators</b>, N. Pokhriyal, Benjamin Valentino, and Soroush Vosoughi, ACM Transactions on Data Science (TDS), 2021</li>      
+<ul>  
+      <li><b>Accurate Intercensal Estimates of Energy Access to Track Sustainable Development Goal 7</b>, N. Pokhriyal, Emmanuel Letouzé, Soroush Vosoughi, EPJ Data Science, 2022</li> 
+      <li><b>An interpretable model for real-time tracking of economic indicators</b>, N. Pokhriyal, Benjamin Valentino, and Soroush Vosoughi, ACM Transactions on Data Science (TDS), 2022</li>      
       <li><b>Social media data reveals signal for public consumer perceptions</b>, N. Pokhriyal, Abenezer Dara, Benjamin Valentino, and Soroush Vosoughi, ACM International Conference on AI in Finance (ICAIF ’20), 2020</li>      
 <li><b>Estimating poverty, inequality and social deprivations in Haiti via machine learning techniques</b>, N. Pokhriyal, Omar Zambrano, Jennifer Linares, Working Paper, Inter-American Development Bank, 2020</li>
 <li><b>Learning Discriminative Factorized Subspaces With Application to Touchscreen Biometrics</b>, N. Pokhriyal and V. Govindaraju, IEEE Access, 2020</li>
 <li><b>Learning from disparate data: Applications in Biometrics and Sustainability</b>, N. Pokhriyal, PhD thesis, University at Buffalo, State University of New York, 2019</li> 
-<li><b>Multi-view learning from disparate sources for Poverty Mapping</b>, N. Pokhriyal, AAAI Conference on Artificial Intelligence Doctoral Consortium, 2019</li>
+<li><b>Multi-view learning from disparate sources for Poverty Mapping</b>, N. Pokhriyal, AAAI Conference on Artificial Intelligence, 2019</li>
 <li><b>Combining disparate data sources for improved poverty prediction and mapping</b>, Neeti Pokhriyal and Damien Jacques, Proceedings of the National Academy of Sciences (PNAS), 2017, doi: 10.1073/pnas.1700319114</li>
       <li><b>Cognitive-Biometric Recognition From Language Usage: A Feasibility Study</b>, Neeti Pokhriyal, Kshitij Tayal,Ifeoma Nwogu, Venu Govindaraju, IEEE Transactions on Information Forensics and Security</li>
       <li><b>Virtual Networks and Poverty Analysis in Senegal</b>, Neeti Pokhriyal, Wen Dong, Venu Govindaraju, D4D, NetMob, April 2015 </li>
