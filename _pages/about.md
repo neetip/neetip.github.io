@@ -14,7 +14,7 @@ Prior to RAND, I was the 2022-23 AAAS Science and Technology Policy fellow at th
 I was the 2022 Mirzayan Policy Fellow at the National Academies of Sciences, Engineering, and Medicine, where I contributed to the work of the Committee on National Statistics on aspects of data governance. I am also a visiting scholar in the Department of Computer Science, at Dartmouth College and a member of the Association for Computing Machinery’s (ACM) US Technology Policy Committee and contribute to their policy pieces.
 
 <b> Recent News</b>
-* Research work in AI ethics on understanding biases in digital data <a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00405-6">Quantifying participation biases on social media</a>, published in EPJ Data Science, 2023. <a href="https://home.dartmouth.edu/news/2023/09/defining-participation-bias-social-media">Article</a> about our work on Dartmouth news 
+* Research work in AI ethics on understanding biases in digital data <a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00405-6">Quantifying participation biases on social media</a>, published in EPJ Data Science, 2023. <a href="https://home.dartmouth.edu/news/2023/09/defining-participation-bias-social-media">Article</a> about our work on Dartmouth news.
 
 * Honored to be the <b>finalist</b> for the <a href="https://falling-walls.com/science-summit/finalists/">Falling Walls Science</a> Breakthroughs of the Year 2023, Engineering and Technology category.
 
