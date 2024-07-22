@@ -7,17 +7,27 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a computer scientist with an interest and experience in research and policy issues related to developing responsible artificial intelligence technologies for societal well-being and national security. I am an Information Scientist at RAND in their Engineering and Applied Sciences Department. 
+I am a computer scientist with expertise in research and policy aspects related to developing responsible AI technologies (RAI). Currently, I am an Information Scientist at RAND in their Engineering and Applied Sciences Department, where I am leading workstreams in developing, deploying, and operationalizing RAI for challenging contexts in national security. I also work on developing AI models for understanding societal well-being and building an inclusive AI workforce. I am a member of the Association for Computing Machinery’s U.S. Tech Policy Committee and contribute to their policy pieces.
 
-Before RAND, I was the 2022-23 AAAS Science and Technology Policy fellow at the National Science Foundation's Artificial Intelligence (AI) Research Institutes program. I was part of the leadership team of the ExpandAI program. My research background is in building interpretable machine learning models that model scenarios where data come from novel, heterogeneous sources, often in limited training data settings, and that involve quantifying model uncertainties. I also work on ethical and governance aspects of AI. 
+Before RAND, I was at the National Science Foundation. I was the 2022-23 AAAS Science and Technology Policy fellow at the NSF’s National AI Research Institutes program and in the leadership team of the ExpandAI program. I was the 2022 Mirzayan Policy Fellow at the National Academies of Sciences, Engineering, and Medicine, where I contributed to the work of the Committee on National Statistics on aspects of data governance.
 
-I was the 2022 Mirzayan Policy Fellow at the National Academies of Sciences, Engineering, and Medicine, where I contributed to the work of the Committee on National Statistics on aspects of data governance. I am also a member of the Association for Computing Machinery’s (ACM) US Technology Policy Committee and contribute to their policy pieces.
+I have completed my postdoc from the Department of Computer Science at Dartmouth College and my Ph.D. in Computer Science from the State University of New York at Buffalo, where my doctoral work was awarded the Chih Foundation Research Award. Before my Ph.D., I was a researcher at Oak Ridge National Laboratory. I obtained my M.S. in Computer Science from the University of California, Riverside, where I received the Dean’s Distinguished Fellowship. 
 
-<b> Recent News</b> 
-* Part of the Technical Program Committee for ACM Conference on Computing and Sustainable Societies, 2024.
-* Research work in AI ethics on understanding biases in digital data <a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00405-6">Quantifying participation biases on social media</a>, published in EPJ Data Science, 2023. <a href="https://home.dartmouth.edu/news/2023/09/defining-participation-bias-social-media">Article</a> about our work on Dartmouth news.
-
-* Honored to be the <b>finalist</b> for the <a href="https://falling-walls.com/science-summit/finalists/">Falling Walls Science</a> Breakthroughs of the Year 2023, Engineering and Technology category.
+<b>Recent Awards, Grants, and Fellowships</b>
+* Winner of the RAND National Security Research Division’s Call for Big Ideas, 2024.
+* Finalist for the Falling Walls Science Breakthroughs of the Year 2023.
+* Awarded the American Association for the Advancement of Science (AAAS) Science and Technology Policy Fellowship, 2022-23.
+* Mirzayan Science and Technology Policy Fellow 2022, National Academies of Sciences, Engineering, and Medicine, March 2022.
+* Postdoc Seed Grant, Irving Institute of Energy and Society, Dartmouth College 2020 - Sept 2021.
+* Chih Foundation Research and Publication Award, University at Buffalo, NY, May 2019.
+* Doctoral Consortium Scholarship for AAAI Conference on Artificial Intelligence, Jan 2019.
+  
+<b> Research highlights</b> 
+* Applying an Equity Lens to Digital Content Transparency and Global AI Standards, RAND Perspective, 2024. <a href="https://www.rand.org/pubs/perspectives/PEA3379-1.html">[press]</a>
+* Contributed to the Comments to Office of Management and Budget on Privacy Impact Assessments, Association
+for Computing Machinery Technology Policy Committee (ACM), US Technology Policy Committee, April, 2024. <a href="https://www.acm.org/binaries/content/assets/public-policy/finalacm_ustpc_omb_pia_comments.pdf">[press]</a>
+* Technical Program Committee for ACM Conference on Computing and Sustainable Societies, 2024. <a href="https://compass.acm.org/technical-program-committee/">[press]</a>
+* Quantifying biases in digital data <a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00405-6">Quantifying participation biases on social media</a>, published in EPJ Data Science, 2023. <a href="https://home.dartmouth.edu/news/2023/09/defining-participation-bias-social-media">Article</a> about our work on Dartmouth news.
 
 * Contributed to the policy paper, titled <a href="https://www.acm.org/binaries/content/assets/public-policy/ustpc-approved-generative-ai-principles">Joint Principles for the Development, Deployment, and Use of Generative AI Technologies</a>, Association for Computing Machinery Technology Policy Committee, Europe/US Technology Policy Committees, June 2023.
 
@@ -28,13 +38,4 @@ I was the 2022 Mirzayan Policy Fellow at the National Academies of Sciences, Eng
 * Presented my work, "Understanding existential societal problems using a computational lens," at the AAAS Annual Meeting, March 2023, in Washington, DC.
 
 * Research paper on <a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00371-5">Accurate Intercensal Estimates of Energy Access to Track Sustainable Development Goal 7</a>, published in EPJ Data Science, 2022. 
-
-<b>Background</b>  
-I completed my postdoc from the Department of Computer Science, at Dartmouth. As a postdoc, I was awarded a <a href="https://irving.dartmouth.edu/research/funding-faculty-and-researchers/funded-projects/mapping-country-wide-energy-access-majority">grant</a> from the Irving Institute for Energy and Society at Dartmouth to develop computational methods for understanding energy accessibility in developing economies. 
-
-I completed my Ph.D. in Computer Science from the State University of New York at Buffalo, where my doctoral work was awarded the Chih Foundation Research Award. Before my Ph.D., I was a researcher at Oak Ridge National Laboratory. I obtained my M.S. in Computer Science from the University of California, Riverside, where I received the Dean’s Distinguished Fellowship. 
-
-I have developed computational methods to map poverty and inequality (<a href="https://www.pnas.org/content/114/46/E9783">PNAS'17</a>, <a href="https://publications.iadb.org/en/estimating-and-forecasting-income-poverty-and-inequality-in-haiti-using-satellite-imagery-and-mobile-phone-data">IADB Working Paper'20</a>), to forecast energy deficits given Sustainable Development Goals (<a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00371-5">EPJ-Data Science'22</a>), to estimate economic well-being (<a href="https://dl.acm.org/doi/10.1145/3498332">ACM TDS'21)</a>, as well as to build secure biometric systems (<a href="assets/docs/ieee_tifs.pdf">IEEE TIFS'16</a>, <a href="https://ieeexplore.ieee.org/document/9157880">IEEE Access'20</a>). 
-
-I have collaborated with the Overseas Development Institute, London, Datapop Alliance, and the Inter-American Development Bank, DC on using novel data and newer methods for human development.
 
