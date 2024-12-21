@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a computer scientist with expertise in research and policy aspects related to developing responsible AI technologies (RAI). Currently, I am an Information Scientist at RAND in their Engineering and Applied Sciences Department, where I am leading workstreams in developing, deploying, and operationalizing RAI for challenging contexts in national security. I also work on developing AI models for understanding societal well-being and building an inclusive AI workforce. I am a member of the Association for Computing Machinery’s U.S. Tech Policy Committee and contribute to their policy pieces.
+I am a computer scientist with expertise and interest in research and policy aspects related to responsible design and deployment of AI technologies. Currently, I am an Information Scientist at RAND Corporation, leading workstreams in developing, deploying, and operationalizing AI for challenging contexts in national security. I also work on developing AI models for understanding societal well-being and building an inclusive AI workforce. I am a member of the Association for Computing Machinery’s U.S. Tech Policy Committee and contribute to their policy pieces. I am a visiting scholar at the Department of Computer Science, Dartmouth College.
 
 Before RAND, I was at the National Science Foundation. I was the 2022-23 AAAS Science and Technology Policy fellow at the NSF’s National AI Research Institutes program and in the leadership team of the ExpandAI program. I was the 2022 Mirzayan Policy Fellow at the National Academies of Sciences, Engineering, and Medicine, where I contributed to the work of the Committee on National Statistics on aspects of data governance.
 
@@ -23,6 +23,10 @@ I have completed my postdoc from the Department of Computer Science at Dartmouth
 * Doctoral Consortium Scholarship for AAAI Conference on Artificial Intelligence, Jan 2019.
   
 <b> Research highlights</b> 
+* Emerging Technology Standards, New Risks and Opportunities in an Age of Technology and Competition, RAND Report, 2025, forthcoming.
+* Honored to be a panelist at the Responsible AI in the Military Domain, REAIM Summit, Seoul, 2024, for a session on Building Consensus Definitions and benchmarks for Military AI at Regional Level.
+* Mitigating Risks at the Intersection of Artificial Intelligence and Chemical and Biological Weapons, RAND Research Report, 2024.
+* Building a Diverse Pool of AI Talent for DHS Recruitment Leading with Artificial Intelligence,<a href="https://www.rand.org/pubs/perspectives/PEA3414-1.html#document-details">[press],</a>, Published as expert insights on U.S. Civilian and Military Leaders on Strengthening the AI Workforce, RAND Corporation, 2024
 * Applying an Equity Lens to Digital Content Transparency and Global AI Standards, RAND Perspective, 2024. <a href="https://www.rand.org/pubs/perspectives/PEA3379-1.html">[press]</a>
 * Contributed to the Comments to Office of Management and Budget on Privacy Impact Assessments, Association
 for Computing Machinery Technology Policy Committee (ACM), US Technology Policy Committee, April, 2024. <a href="https://www.acm.org/binaries/content/assets/public-policy/finalacm_ustpc_omb_pia_comments.pdf">[press]</a>
