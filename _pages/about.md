@@ -24,9 +24,9 @@ I have completed my postdoc from the Department of Computer Science at Dartmouth
   
 <b> Research highlights</b> 
 * Emerging Technology Standards, New Risks and Opportunities in an Age of Technology and Competition, RAND Report, 2025, forthcoming.
-* Honored to be a panelist at the Responsible AI in the Military Domain, REAIM Summit, Seoul, 2024, for a session on Building Consensus Definitions and benchmarks for Military AI at Regional Level<a href="https://reaim2024.kr/home/reaimeng/board/bbsReaimDetail.do">[press]</a>.
+* Honored to be a panelist at the Responsible AI in the Military Domain, REAIM Summit, Seoul, 2024, for a session on Building Consensus Definitions and benchmarks for Military AI at Regional Level <a href="https://reaim2024.kr/home/reaimeng/board/bbsReaimDetail.do">[press]</a>.
 * Mitigating Risks at the Intersection of Artificial Intelligence and Chemical and Biological Weapons, RAND Research Report, 2024.
-* Building a Diverse Pool of AI Talent for DHS Recruitment Leading with Artificial Intelligence,<a href="https://www.rand.org/pubs/perspectives/PEA3414-1.html#document-details">[press],</a>, Published as expert insights on U.S. Civilian and Military Leaders on Strengthening the AI Workforce, RAND Corporation, 2024
+* Building a Diverse Pool of AI Talent for DHS Recruitment Leading with Artificial Intelligence,<a href="https://www.rand.org/pubs/perspectives/PEA3414-1.html#document-details">[press]</a>, Published as expert insights on U.S. Civilian and Military Leaders on Strengthening the AI Workforce, RAND Corporation, 2024
 * Applying an Equity Lens to Digital Content Transparency and Global AI Standards, RAND Perspective, 2024. <a href="https://www.rand.org/pubs/perspectives/PEA3379-1.html">[press]</a>
 * Contributed to the Comments to Office of Management and Budget on Privacy Impact Assessments, Association
 for Computing Machinery Technology Policy Committee (ACM), US Technology Policy Committee, April, 2024. <a href="https://www.acm.org/binaries/content/assets/public-policy/finalacm_ustpc_omb_pia_comments.pdf">[press]</a>
