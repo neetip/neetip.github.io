@@ -14,7 +14,8 @@ Before RAND, I was at the National Science Foundation. I was the 2022-23 AAAS Sc
 I have completed my postdoc from the Department of Computer Science at Dartmouth College and my Ph.D. in Computer Science from the State University of New York at Buffalo, where my doctoral work was awarded the Chih Foundation Research Award. Before my Ph.D., I was a researcher at Oak Ridge National Laboratory. I obtained my M.S. in Computer Science from the University of California, Riverside, where I received the Dean’s Distinguished Fellowship. 
 
 <b>Recent Awards, Grants, and Fellowships</b>
-* Winner of the RAND National Security Research Division’s Call for Big Ideas, 2024.
+* NSF grant via the NAIRR pilot program
+* RAND's National Security Research Division’s Call for Big Ideas, 2024.
 * Finalist for the Falling Walls Science Breakthroughs of the Year 2023.
 * Awarded the American Association for the Advancement of Science (AAAS) Science and Technology Policy Fellowship, 2022-23.
 * Mirzayan Science and Technology Policy Fellow 2022, National Academies of Sciences, Engineering, and Medicine, March 2022.
@@ -23,9 +24,9 @@ I have completed my postdoc from the Department of Computer Science at Dartmouth
 * Doctoral Consortium Scholarship for AAAI Conference on Artificial Intelligence, Jan 2019.
   
 <b> Research highlights</b> 
+* Mitigating Risks at the Intersection of Artificial Intelligence and Chemical and Biological Weapons, RAND Research Report, 2025.
 * Emerging Technology Standards, New Risks and Opportunities in an Age of Technology and Competition, RAND Report, 2025, forthcoming.
 * Honored to be a panelist at the Responsible AI in the Military Domain, REAIM Summit, Seoul, 2024, for a session on Building Consensus Definitions and benchmarks for Military AI at Regional Level <a href="https://reaim2024.kr/home/reaimeng/board/bbsReaimDetail.do">[press]</a>.
-* Mitigating Risks at the Intersection of Artificial Intelligence and Chemical and Biological Weapons, RAND Research Report, 2024.
 * Building a Diverse Pool of AI Talent for DHS Recruitment Leading with Artificial Intelligence,<a href="https://www.rand.org/pubs/perspectives/PEA3414-1.html#document-details">[press]</a>, Published as expert insights on U.S. Civilian and Military Leaders on Strengthening the AI Workforce, RAND Corporation, 2024
 * Applying an Equity Lens to Digital Content Transparency and Global AI Standards, RAND Perspective, 2024. <a href="https://www.rand.org/pubs/perspectives/PEA3379-1.html">[press]</a>
 * Contributed to the Comments to Office of Management and Budget on Privacy Impact Assessments, Association
