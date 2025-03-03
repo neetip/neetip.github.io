@@ -7,14 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a computer scientist with expertise and interest in research and policy aspects related to responsible design and deployment of AI technologies. Currently, I am an Information Scientist at RAND Corporation, leading workstreams in developing, deploying, and operationalizing AI for challenging contexts in national security. I also work on developing AI models for understanding societal well-being and building an inclusive AI workforce. I am a member of the Association for Computing Machinery’s U.S. Tech Policy Committee and contribute to their policy pieces. I am a visiting scholar at the Department of Computer Science, Dartmouth College.
+I am a computer scientist with expertise and interest in research and policy aspects related to the responsible design and deployment of AI technologies. Currently, I am an Information Scientist at RAND Corporation, leading workstreams in developing, deploying, and operationalizing AI for challenging contexts in national security. I also work on developing AI models for understanding societal well-being and building an inclusive AI workforce. I am a member of the Association for Computing Machinery’s U.S. Tech Policy Committee and contribute to its policy pieces. I am a visiting scholar at the Department of Computer Science, Dartmouth College.
 
 Before RAND, I was at the National Science Foundation. I was the 2022-23 AAAS Science and Technology Policy fellow at the NSF’s National AI Research Institutes program and in the leadership team of the ExpandAI program. I was the 2022 Mirzayan Policy Fellow at the National Academies of Sciences, Engineering, and Medicine, where I contributed to the work of the Committee on National Statistics on aspects of data governance.
 
 I have completed my postdoc from the Department of Computer Science at Dartmouth College and my Ph.D. in Computer Science from the State University of New York at Buffalo, where my doctoral work was awarded the Chih Foundation Research Award. Before my Ph.D., I was a researcher at Oak Ridge National Laboratory. I obtained my M.S. in Computer Science from the University of California, Riverside, where I received the Dean’s Distinguished Fellowship. 
 
 <b>Recent Awards, Grants, and Fellowships</b>
-* NSF grant via the NAIRR pilot program
+* NSF grant via the NAIRR program, 2024-2026
 * RAND's National Security Research Division’s Call for Big Ideas, 2024.
 * Finalist for the Falling Walls Science Breakthroughs of the Year 2023.
 * Awarded the American Association for the Advancement of Science (AAAS) Science and Technology Policy Fellowship, 2022-23.
